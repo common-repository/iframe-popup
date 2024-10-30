@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iframe popup\n"
+"POT-Creation-Date: 2015-11-29 13:16+0800\n"
+"PO-Revision-Date: 2015-11-29 13:16+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/iframe-register.php:46
+msgid "These tables could not be created on installation "
+msgstr "Ces tableaux ne peuvent pas être créés sur l'installation"
+
+#: ../classes/iframe-register.php:73 ../classes/iframe-register.php:74
+msgid "IFrame popup"
+msgstr "Boîte de dialogue"
+
+#: ../classes/iframe-register.php:143
+msgid "Widget Title"
+msgstr "Titre du widget"
+
+#: ../classes/iframe-register.php:147
+msgid "Popup Id"
+msgstr "ID de la base de données"
+
+#: ../page/popup-add.php:35 ../page/popup-add.php:124
+#: ../page/popup-edit.php:51 ../page/popup-edit.php:120
+msgid "Enter your title for popup window."
+msgstr "Entrez votre titre de fenêtre popup."
+
+#: ../page/popup-add.php:42 ../page/popup-edit.php:58
+msgid ""
+"Enter URL to display in Iframe popup window. URL must start with either http "
+"or https"
+msgstr ""
+"Entrer l'URL à afficher dans Iframe fenêtre popup. URL doit commencer par "
+"http ou https"
+
+#: ../page/popup-add.php:64
+msgid "New details was successfully added."
+msgstr "De nouveaux détails ont été ajoutés avec succès."
+
+#: ../page/popup-add.php:68 ../page/popup-edit.php:85
+msgid "Oops unexpected error occurred."
+msgstr "Oups une erreur inattendue s'est produite."
+
+#: ../page/popup-add.php:104 ../page/popup-edit.php:100
+msgid "Click here"
+msgstr "Cliquer ici"
+
+#: ../page/popup-add.php:105 ../page/popup-edit.php:101
+msgid "to view the details"
+msgstr "pour afficher les détails"
+
+#: ../page/popup-add.php:116
+msgid "Add details"
+msgstr "Détails des points"
+
+#: ../page/popup-add.php:118 ../page/popup-edit.php:114
+msgid "Iframe URL"
+msgstr "Adresse URL iframe"
+
+#: ../page/popup-add.php:120 ../page/popup-edit.php:116
+msgid ""
+"Enter URL to display in Iframe popup window. URL must start with either http "
+"or https."
+msgstr ""
+"Entrer l'URL à afficher dans Iframe fenêtre popup. URL doit commencer par "
+"http ou https."
+
+#: ../page/popup-add.php:122 ../page/popup-edit.php:118
+msgid "Popup title"
+msgstr "Titre de la popup"
+
+#: ../page/popup-add.php:126 ../page/popup-edit.php:122
+#: ../page/popup-show.php:59 ../page/popup-show.php:72
+msgid "Width"
+msgstr "Largeur"
+
+#: ../page/popup-add.php:142 ../page/popup-edit.php:138
+msgid "Select your width percentage for popup window."
+msgstr "Sélectionnez votre pourcentage de largeur pour fenêtre popup."
+
+#: ../page/popup-add.php:144 ../page/popup-edit.php:140
+#: ../page/popup-show.php:60 ../page/popup-show.php:73
+msgid "Height"
+msgstr "Hauteur"
+
+#: ../page/popup-add.php:160 ../page/popup-edit.php:156
+msgid "Select your height percentage for popup window."
+msgstr "Entrez votre taille de fenêtre de popup."
+
+#: ../page/popup-add.php:162 ../page/popup-edit.php:158
+msgid "Transition In"
+msgstr "Transition d'entrée"
+
+#: ../page/popup-add.php:168 ../page/popup-edit.php:164
+msgid "Transition type while opening popup window."
+msgstr "Type transition tout en ouvrant la fenêtre popup."
+
+#: ../page/popup-add.php:170 ../page/popup-edit.php:166
+msgid "Transition Out"
+msgstr "Transition de sortie"
+
+#: ../page/popup-add.php:176 ../page/popup-edit.php:172
+msgid "Transition type while closing popup window."
+msgstr "Type transition tout en fermant la fenêtre popup."
+
+#: ../page/popup-add.php:178 ../page/popup-edit.php:174
+msgid "Center on scroll"
+msgstr "Centrer lors du défilement"
+
+#: ../page/popup-add.php:183 ../page/popup-edit.php:179
+msgid "If true, popup window is centered while scrolling page."
+msgstr "Si cela est vrai, fenêtre est centrée tout en faisant défiler la page."
+
+#: ../page/popup-add.php:185 ../page/popup-edit.php:181
+msgid "Show Title"
+msgstr "Montrez Titre"
+
+#: ../page/popup-add.php:190 ../page/popup-edit.php:186
+msgid "Display title under popup window."
+msgstr "Entrez votre titre de fenêtre popup."
+
+#: ../page/popup-add.php:192 ../page/popup-edit.php:188
+#: ../page/popup-show.php:61 ../page/popup-show.php:74
+msgid "Start Date"
+msgstr "Date de début"
+
+#: ../page/popup-add.php:194 ../page/popup-edit.php:190
+msgid "Please enter popup display start date in this format YYYY-MM-DD"
+msgstr ""
+"S'il vous plaît entrer contextuel affichage de la date de début dans ce "
+"format AAAA-MM-JJ"
+
+#: ../page/popup-add.php:196 ../page/popup-edit.php:192
+msgid "Expiration Date"
+msgstr "Date d’expiration"
+
+#: ../page/popup-add.php:198 ../page/popup-edit.php:194
+msgid "Please enter popup expiration date in this format YYYY-MM-DD"
+msgstr "Veuillez entrer la date d'expiration au format AAAA-MM-JJ"
+
+#: ../page/popup-add.php:200 ../page/popup-edit.php:196
+#: ../page/popup-show.php:64 ../page/popup-show.php:77
+msgid "Overlay Color"
+msgstr "Couleur de l’en-tête"
+
+#: ../page/popup-add.php:202 ../page/popup-edit.php:198
+msgid "Color of the overlay for popup window. (Example: #666666)"
+msgstr "Couleur de la superposition de fenêtre popup. (Exemple: # 666666)"
+
+#: ../page/popup-add.php:204 ../page/popup-edit.php:200
+#: ../page/popup-show.php:63 ../page/popup-show.php:76
+msgid "Category"
+msgstr "Catégorie"
+
+#: ../page/popup-add.php:210 ../page/popup-edit.php:217
+msgid "Select category for this popup content."
+msgstr "S'il vous plaît entrez le contenu du popup."
+
+#: ../page/popup-add.php:212 ../page/popup-edit.php:219
+msgid "Timeout"
+msgstr "Délai"
+
+#: ../page/popup-add.php:224 ../page/popup-edit.php:231
+msgid "Timeout to open popup window."
+msgstr "Entrez votre largeur de la fenêtre popup."
+
+#: ../page/popup-add.php:229 ../page/popup-edit.php:236
+#: ../page/popup-setting.php:36
+msgid "Submit"
+msgstr "Envoyer"
+
+#: ../page/popup-add.php:230 ../page/popup-edit.php:237
+#: ../page/popup-setting.php:37
+msgid "Cancel"
+msgstr "Annuler"
+
+#: ../page/popup-add.php:231 ../page/popup-edit.php:238
+#: ../page/popup-setting.php:38 ../page/popup-show.php:124
+msgid "Help"
+msgstr "Aide"
+
+#: ../page/popup-edit.php:13 ../page/popup-show.php:17
+msgid "Oops, selected details doesnt exist."
+msgstr "Oops, détails sélectionnés doesnt existe."
+
+#: ../page/popup-edit.php:81 ../page/popup-setting.php:18
+msgid "Details was successfully updated."
+msgstr "Détails a été mis à jour."
+
+#: ../page/popup-edit.php:112
+msgid "Update details"
+msgstr "Oups, pas de mise à jour en détail."
+
+#: ../page/popup-setting.php:24 ../page/popup-show.php:123
+msgid "Session Setting"
+msgstr "L'option Popup session"
+
+#: ../page/popup-setting.php:26
+msgid "Session option (Global setting)"
+msgstr "L'option Popup session"
+
+#: ../page/popup-setting.php:32
+msgid ""
+"Select YES to show popup once per session, Meaning, popup never appear again "
+"if user navigate to another page."
+msgstr ""
+"Sélectionnez OUI pour montrer le popup une fois par session, Sens, "
+"contextuel apparaît jamais si l'utilisateur de naviguer vers une autre page."
+
+#: ../page/popup-show.php:32
+msgid "Selected record was successfully deleted."
+msgstr "Enregistrement sélectionné a été supprimé."
+
+#: ../page/popup-show.php:45 ../page/popup-show.php:122
+msgid "Add New"
+msgstr "Ajouter nouveau"
+
+#: ../page/popup-show.php:56 ../page/popup-show.php:69
+msgid "Id"
+msgstr "ID"
+
+#: ../page/popup-show.php:57 ../page/popup-show.php:70
+msgid "Title"
+msgstr "Titre du widget"
+
+#: ../page/popup-show.php:58 ../page/popup-show.php:71
+msgid "URL"
+msgstr "(C'est à dire image URL), chemin de l'image 1 Popup"
+
+#: ../page/popup-show.php:62 ../page/popup-show.php:75
+msgid "Expiration"
+msgstr "Expiration"
+
+#: ../page/popup-show.php:93
+msgid "Edit"
+msgstr "Modifier configuration"
+
+#: ../page/popup-show.php:95
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ../page/popup-show.php:112
+msgid "No records available."
+msgstr "Aucun registre disponible."
+
+#: ../page/popup-show.php:128
+msgid "Plugin configuration option"
+msgstr "Plugin l'option de configuration"
+
+#: ../page/popup-show.php:130
+msgid "Drag and drop the widget (Display entire website)"
+msgstr "Glissez et déposez le widget (Afficher ensemble du site)"
+
+#: ../page/popup-show.php:131
+msgid "Add popup into specific  post or page using short code"
+msgstr ""
+"Ajouter contextuel en poste ou la page spécifique en utilisant le code court"
+
+#: ../page/popup-show.php:132
+msgid "Add directly in to the theme using PHP code"
+msgstr "Ajouter directement dans le thème à l'aide du code PHP"
